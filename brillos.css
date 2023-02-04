@@ -1,0 +1,42 @@
+.rojo{
+    background-color: rgba(255, 0, 0, 0.308);
+
+}
+
+.rojoBrilla{
+    background-color: rgb(255, 0, 0);
+
+}
+
+.azul{
+    background-color: rgba(0, 60, 255, 0.308);
+
+}
+
+.azulBrilla{
+    background-color: rgb(0, 60, 255);
+
+
+}
+
+.gris{
+    background-color: rgba(65, 65, 65, 0.308);
+
+}
+
+.grisBrilla{
+    background-color: rgb(65, 65, 65);
+
+
+}
+
+.verde{
+    background-color: rgba(0, 255, 13, 0.308);
+
+}
+
+.verdeBrilla{
+    background-color: rgb(0, 255, 13);
+
+    
+}
